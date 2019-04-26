@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    app:cardElevation="10dp"
+    app:contentPaddingLeft="12dp"
+    app:contentPaddingRight="12dp"
+    app:contentPaddingTop="24dp"
+    app:contentPaddingBottom="24dp"
+    >
+
+    <TextView
+        android:id="@+id/tv_mahjong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="1wan"/>
+
+</android.support.v7.widget.CardView>
